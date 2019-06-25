@@ -1,0 +1,7 @@
+body {background-color: #204574 !important;}
+.navitems {position: relative; left:60%;}
+.profile {color:white;}
+.profilename {font-size: 40px;}
+.hello1 {text-align: center !important;}
+.hello {text-align: center !important;}
+.mynav {background-color: #081b33; margin:0px; position:sticky; top:0px; z-index:100;"}
